@@ -1,0 +1,11 @@
+<?xml version='1.0' ?>
+2
+   <chapter1>
+3
+       <hint id='intro1'>Good morning Mr Bond, how did you sleep ?</hint>
+4
+       <hint id='intro2'>I have prepared your breakfast for you</hint>
+5
+       <hint id='intro3'>Come find me when you're finished</hint>
+6
+   </chapter1>
