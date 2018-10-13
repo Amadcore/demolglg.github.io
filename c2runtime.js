@@ -27000,5 +27000,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Mouse.prototype.cnds.OnWheel,
 	cr.plugins_.Sprite.prototype.acts.RotateClockwise,
 	cr.plugins_.vkontakte.prototype.cnds.OnReady,
+	cr.plugins_.vkontakte.prototype.acts.SavePhoto,
+	cr.plugins_.vkontakte.prototype.exps.ServerUpUrl,
 	cr.plugins_.vkontakte.prototype.acts.PublishToWall
 ];};
